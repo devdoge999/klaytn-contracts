@@ -1,4 +1,4 @@
-# klaytn-contracts
+# klaytn-contracts for solc 0.5.6
 
 This repository contains contracts that are helpful to building blockchain applications on Klaytn.
 
